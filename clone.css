@@ -1,0 +1,142 @@
+
+.footer{
+    width: 98%;
+    height: 130px;
+    padding: 20px;
+    background-color: rgba(65, 67, 70, 0.767);
+    float: left;
+}
+
+.foot{
+    
+    width: 50%;
+    float: left;
+    color: #FFFDFC;
+}
+
+
+
+
+
+
+
+.pricingbg{
+    background-color:#FFFFFF;
+    width: 100%;
+    height: 110px;
+    float: left;
+    
+}
+
+.pmenu {   
+    width: 12%;
+    height: 100px;
+    font-size: 30px;
+    line-height: 80px;
+    text-align: center;
+    border-radius: 10px;
+    float: left;
+    
+    margin-bottom: 5px;
+    color: #77645c ;
+    border-radius: 20px;
+}
+
+.ppad{
+    width: 70%;
+    height: 1500px;
+    background-color:#FAFAFA;
+    margin: auto;
+    
+}
+
+.pplans{
+    width: 25%;
+    margin-left: 90px;
+    height: 400px;
+    position: relative;
+    
+    left: 1%;
+    float: left;
+    font-style: initial;
+    border: 2%;
+    border-color: black;
+    background-color: #FFFFFF;
+}
+
+.plandiv{
+    width: 100%;
+    height: 10%;
+    padding: 10%;
+    background-color: blueviolet;
+}
+
+.smalfont{
+    font-size: 15px;
+    color: black;
+    position: relative;
+     left: 25%;
+}
+
+.space{
+    width: 90%;
+    padding-left: 10px;
+    margin-left: 5%;
+    margin-top: 5px;
+    height: 50px;
+    font-style: initial;
+    font-size: 20px;
+    color:#CCCCCC;
+    border-radius: 10px;
+    border-color: #CCCCCC;
+    
+    float: left;
+}
+
+.ico{
+    width: 90%;
+    margin-left: 5%;
+    height: 70px;
+    margin-top: 5%;
+    background-color: #FFFFFF;
+    border: 1px solid;
+    border-color: #BBBBBB;
+    border-radius: 5px;
+    float: left;
+}
+
+.footer1{
+    width: 100%;
+    height: 800px;
+    background-color:#1E1E1E;
+    margin: auto;
+}
+
+.footer2{
+    width: 70%;
+    height: 700px;
+    margin-left: 15%;
+    background-color:#1E1E1E;
+    float: left;
+}
+
+.foplans{
+    width: 20%;
+    margin-left: 2%;
+    margin-top: 4%;
+    height: 600px;
+    position: relative;
+    left: 1%;
+    float: left;
+    font-style: initial;
+    border: 2%;
+    border-color: black;
+    background-color: #1E1E1E;
+}
+
+.fotxt{
+    font-size: 20px;
+    color: #FAFAFA;
+    position: relative;
+    left: 0%;
+}
